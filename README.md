@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-28 14:00:15
+ * @LastEditTime: 2024-05-28 17:02:43
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Energy</h1>
@@ -67,9 +67,9 @@ The T-Energy is a module developed based on the ESP32S3, equipped with a 18650 l
 
 | Example | Support IDE And Version| Description | Picture |
 | ------  | ------  | ------ | ------ | 
-| [Deep Sleep Wake Up](./examples/Deep_Sleep_Wake_Up) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
-| [Original Test](./examples/Original_Test) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v3.0.0-rc3]` | Product factory original testing |  |
-| [Wifi STA](./examples/Wifi_STA) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
+| [Deep Sleep Wake Up](./examples/Deep_Sleep_Wake_Up) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v2.0.14]` |  |  |
+| [Original Test](./examples/Original_Test) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v2.0.14]` | Product factory original testing |  |
+| [Wifi STA](./examples/Wifi_STA) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v2.0.14]` |  |  |
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |

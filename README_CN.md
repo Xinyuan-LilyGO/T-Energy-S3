@@ -68,9 +68,9 @@ T-Energy是一款基于ESP32S3开发的板载一个18650锂电池的模块
 
 | Example | Support IDE And Version| Description | Picture |
 | ------  | ------  | ------ | ------ | 
-| [Deep Sleep Wake Up](./examples/Deep_Sleep_Wake_Up) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
-| [Original Test](./examples/Original_Test) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v3.0.0-rc3]` | 出厂初始测试文件 |  |
-| [Wifi STA](./examples/Wifi_STA) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
+| [Deep Sleep Wake Up](./examples/Deep_Sleep_Wake_Up) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v2.0.14]` |  |  |
+| [Original Test](./examples/Original_Test) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v2.0.14]` | 出厂初始测试文件 |  |
+| [Wifi STA](./examples/Wifi_STA) | `[Platformio IDE][espressif32-v6.5.0]`<br />`[Arduino IDE][esp32_v2.0.14]` |  |  |
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
