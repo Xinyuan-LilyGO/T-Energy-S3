@@ -4,23 +4,23 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-28 17:02:43
+ * @LastEditTime: 2024-07-29 16:32:28
  * @License: GPL 3.0
 -->
-<h1 align = "center">T-Energy</h1>
+<h1 align = "center">T-Energy-S3</h1>
 
 ## **English | [中文](./README_CN.md)**
 
 ## Version iteration:
 | Version                              | Update date                       |
 | :-------------------------------: | :-------------------------------: |
-| T-Energy_V1.0                      | 2024-04-10                         |
+| T-Energy-S3_V1.0                      | 2024-04-10                         |
 
 ## PurchaseLink
 
 | Product                     | SOC           |  FLASH  |  PSRAM   | Link                   |
 | :------------------------: | :-----------: |:-------: | :---------: | :------------------: |
-| T-Energy_V1.0   | ESP32S3R8 |   16M   | 8M (Octal SPI) |   [Not yet sold]()  |
+| T-Energy-S3_V1.0   | ESP32S3R8 |   16M   | 8M (Octal SPI) |   [Not yet sold]()  |
 
 ## Directory
 - [Describe](#describe)
@@ -35,7 +35,7 @@
 
 ## Describe
 
-The T-Energy is a module developed based on the ESP32S3, equipped with a 18650 lithium battery.
+The T-Energy-S3 is a module developed based on the ESP32S3, equipped with a 18650 lithium battery.
 
 ## Preview
 
@@ -73,7 +73,7 @@ The T-Energy is a module developed based on the ESP32S3, equipped with a 18650 l
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
-| [Original Test V1.0.0](./firmware/[T-Energy_V1.0][Original_Test]_firmware_V1.0.0.bin) | Original |  |
+| [Original Test V1.0.0](./firmware/[T-Energy-S3_V1.0][Original_Test]_firmware_V1.0.0.bin) | Original |  |
 
 ### PlatformIO
 1. Install[VisualStudioCode](https://code.visualstudio.com/Download),Choose installation based on your system type.
@@ -158,7 +158,7 @@ The T-Energy is a module developed based on the ESP32S3, equipped with a 18650 l
 * A. Please hold down the "BOOT-0" button and try downloading the program again.
 
 ## Project
-* [T-Energy_V1.0](./project/T-Energy_V1.0.pdf)
+* [T-Energy-S3_V1.0](./project/T-Energy-S3_V1.0.pdf)
 
 ## Information
 * [HX6610S](./information/HX6610S.PDF)

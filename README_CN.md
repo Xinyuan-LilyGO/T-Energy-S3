@@ -4,23 +4,23 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-28 09:51:08
+ * @LastEditTime: 2024-07-29 16:33:25
  * @License: GPL 3.0
 -->
-<h1 align = "center">T-Energy</h1>
+<h1 align = "center">T-Energy-S3</h1>
 
 ## **[English](./README.md) | 中文**
 
 ## 版本迭代:
 | Version                               | Update date                       |
 | :-------------------------------: | :-------------------------------: |
-| T-Energy_V1.0                      | 2024-04-10                         |
+| T-Energy-S3_V1.0                      | 2024-04-10                         |
 
 ## 购买链接
 
 | Product                     | SOC           |  FLASH  |  PSRAM   | Link                   |
 | :------------------------: | :-----------: |:-------: | :---------: | :------------------: |
-| T-Energy_V1.0   | ESP32S3R8 |   16M   | 8M (Octal SPI) |  [暂未售卖]()  |
+| T-Energy-S3_V1.0   | ESP32S3R8 |   16M   | 8M (Octal SPI) |  [暂未售卖]()  |
 
 ## 目录
 - [描述](#描述)
@@ -35,7 +35,7 @@
 
 ## 描述
 
-T-Energy是一款基于ESP32S3开发的板载一个18650锂电池的模块
+T-Energy-S3是一款基于ESP32S3开发的板载一个18650锂电池的模块
 
 ## 预览
 
@@ -74,7 +74,7 @@ T-Energy是一款基于ESP32S3开发的板载一个18650锂电池的模块
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
-| [Original Test V1.0.0](./firmware/[T-Energy_V1.0][Original_Test]_firmware_V1.0.0.bin) | 初始版本 |  |
+| [Original Test V1.0.0](./firmware/[T-Energy-S3_V1.0][Original_Test]_firmware_V1.0.0.bin) | 初始版本 |  |
 
 
 ### PlatformIO
@@ -160,7 +160,7 @@ T-Energy是一款基于ESP32S3开发的板载一个18650锂电池的模块
 * A. 请按住“BOOT-0”按键重新下载程序。
 
 ## 项目
-* [T-Energy_V1.0](./project/T-Energy_V1.0.pdf)
+* [T-Energy-S3_V1.0](./project/T-Energy-S3_V1.0.pdf)
 
 ## 资料
 * [HX6610S](./information/HX6610S.PDF)
