@@ -2,7 +2,7 @@
  * @Description: None
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
- * @LastEditTime: 2024-11-20 13:32:44
+ * @LastEditTime: 2024-11-20 15:44:08
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Energy-S3</h1>
