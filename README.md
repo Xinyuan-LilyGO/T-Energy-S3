@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-11-20 11:38:08
+ * @LastEditTime: 2024-11-20 11:46:41
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Energy-S3</h1>
@@ -93,7 +93,7 @@ The T-Energy-S3 is a module developed based on the ESP32S3, equipped with a 1865
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
-| [Original Test V1.0.0](./firmware/[T-Energy-S3_V1.0][Original_Test]_firmware_V1.0.0.bin) | Original |  |
+| [Original_Test](./firmware/[T-Energy-S3_V1.0][Original_Test]_firmware_V1.0.0.bin) | Original |  |
 
 ### PlatformIO
 1. Install[VisualStudioCode](https://code.visualstudio.com/Download),Choose installation based on your system type.
@@ -130,6 +130,7 @@ The T-Energy-S3 is a module developed based on the ESP32S3, equipped with a 1865
 | Flash Mode                         | QIO 80MHz                         |
 | Flash Size                           | 16MB (128Mb)                    |
 | Core Debug Level                | None                                 |
+| Partition Scheme                | 16M Flash (3MB APP/9.9MB FATFS) |
 | PSRAM                                | OPI PSRAM                         |
 | Arduino Runs On                  | Core 1                               |
 | Events Run On                     | Core 1                               |           

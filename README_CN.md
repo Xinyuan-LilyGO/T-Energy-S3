@@ -92,7 +92,7 @@ T-Energy-S3是一款基于ESP32S3开发的板载一个18650锂电池的模块
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
-| [Original Test V1.0.0](./firmware/[T-Energy-S3_V1.0][Original_Test]_firmware_V1.0.0.bin) | 初始版本 |  |
+| [Original_Test](./firmware/[T-Energy-S3_V1.0][Original_Test]_firmware_V1.0.0.bin) | 初始版本 |  |
 
 
 ### PlatformIO
@@ -130,6 +130,7 @@ T-Energy-S3是一款基于ESP32S3开发的板载一个18650锂电池的模块
 | Flash Mode                         | QIO 80MHz                         |
 | Flash Size                           | 16MB (128Mb)                    |
 | Core Debug Level                | None                                 |
+| Partition Scheme                | 16M Flash (3MB APP/9.9MB FATFS) |
 | PSRAM                                | OPI PSRAM                         |
 | Arduino Runs On                  | Core 1                               |
 | Events Run On                     | Core 1                               |        
