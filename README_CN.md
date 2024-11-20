@@ -1,10 +1,8 @@
 <!--
  * @Description: None
- * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
- * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-11-20 11:37:53
+ * @LastEditTime: 2024-11-20 13:32:44
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Energy-S3</h1>
