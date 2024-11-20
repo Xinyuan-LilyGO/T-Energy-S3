@@ -3,11 +3,15 @@
  * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-07-29 16:47:19
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2024-11-20 11:37:53
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Energy-S3</h1>
+
+<p align="center" width="100%">
+    <img src="image/12.jpg" alt="">
+</p>
 
 ## **[English](./README.md) | 中文**
 
@@ -20,7 +24,7 @@
 
 | Product                     | SOC           |  FLASH  |  PSRAM   | Link                   |
 | :------------------------: | :-----------: |:-------: | :---------: | :------------------: |
-| T-Energy-S3_V1.0   | ESP32S3R8 |   16M   | 8M (Octal SPI) |  [暂未售卖]()  |
+| T-Energy-S3_V1.0   | ESP32S3R8 |   16M   | 8M (Octal SPI) | [LILYGO Mall](https://lilygo.cc/products/t-energy-s3?_pos=1&_sid=ddaa4eef4&_ss=r) |
 
 ## 目录
 - [描述](#描述)
@@ -39,10 +43,23 @@ T-Energy-S3是一款基于ESP32S3开发的板载一个18650锂电池的模块
 
 ## 预览
 
-### PCB板
+### 实物图
 
-### 渲染图
+<p align="center" width="100%">
+    <img src="image/12.jpg" alt="">
+</p>
 
+---
+
+<p align="center" width="100%">
+    <img src="image/13.jpg" alt="">
+</p>
+
+---
+
+<p align="center" width="100%">
+    <img src="image/14.jpg" alt="">
+</p>
 
 ## 模块
 

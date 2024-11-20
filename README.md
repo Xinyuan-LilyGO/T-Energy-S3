@@ -3,11 +3,16 @@
  * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-07-29 16:32:28
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2024-11-20 11:38:08
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Energy-S3</h1>
+
+<p align="center" width="100%">
+    <img src="image/12.jpg" alt="">
+</p>
+
 
 ## **English | [中文](./README_CN.md)**
 
@@ -20,7 +25,7 @@
 
 | Product                     | SOC           |  FLASH  |  PSRAM   | Link                   |
 | :------------------------: | :-----------: |:-------: | :---------: | :------------------: |
-| T-Energy-S3_V1.0   | ESP32S3R8 |   16M   | 8M (Octal SPI) |   [Not yet sold]()  |
+| T-Energy-S3_V1.0   | ESP32S3R8 |   16M   | 8M (Octal SPI) | [LILYGO Mall](https://lilygo.cc/products/t-energy-s3?_pos=1&_sid=ddaa4eef4&_ss=r) |
 
 ## Directory
 - [Describe](#describe)
@@ -39,9 +44,23 @@ The T-Energy-S3 is a module developed based on the ESP32S3, equipped with a 1865
 
 ## Preview
 
-### PCB board
+### Actual Product Image
 
-### Rendering
+<p align="center" width="100%">
+    <img src="image/12.jpg" alt="">
+</p>
+
+---
+
+<p align="center" width="100%">
+    <img src="image/13.jpg" alt="">
+</p>
+
+---
+
+<p align="center" width="100%">
+    <img src="image/14.jpg" alt="">
+</p>
 
 ## Module
 
