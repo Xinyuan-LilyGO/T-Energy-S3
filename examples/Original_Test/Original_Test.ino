@@ -3,8 +3,8 @@
  * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-08-16 15:19:01
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-27 17:30:44
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2026-04-23 11:29:39
  * @License: GPL 3.0
  */
 #include "Arduino.h"
@@ -12,10 +12,14 @@
 #include <HTTPClient.h>
 #include "pin_config.h"
 
-#define WIFI_SSID "xinyuandianzi"
-#define WIFI_PASSWORD "AA15994823428"
-// #define WIFI_SSID "LilyGo-AABB"
-// #define WIFI_PASSWORD "xinyuandianzi"
+#define SOFTWARE_NAME "Original_Test"
+#define SOFTWARE_LASTEDITTIME "202604231130"
+#define BOARD_VERSION "V1.0"
+
+// #define WIFI_SSID "xinyuandianzi"
+// #define WIFI_PASSWORD "AA15994823428"
+#define WIFI_SSID "LilyGo-AABB"
+#define WIFI_PASSWORD "xinyuandianzi"
 
 #define WIFI_CONNECT_WAIT_MAX 5000
 
@@ -147,6 +151,8 @@ void setup()
 {
     Serial.begin(115200);
     Serial.println("Ciallo");
+    Serial.println("[T-Energy-S3_" + (String)BOARD_VERSION "][" + (String)SOFTWARE_NAME +
+                   "]_firmware_" + (String)SOFTWARE_LASTEDITTIME);
 
     // pinMode(GPIO_NUM_37, OUTPUT);
     // pinMode(GPIO_NUM_35, OUTPUT);
